@@ -1,0 +1,8 @@
+# Dependencias Enterprise para Brave Cleaner
+# Versión: 2.0 - Enterprise Grade
+
+# Manejo de configuración YAML
+PyYAML>=6.0
+
+# Dependencias del sistema (incluidas en Python)
+# os, shutil, subprocess, time, winreg, ctypes, pathlib, typing 
