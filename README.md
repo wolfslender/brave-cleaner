@@ -120,16 +120,6 @@ El archivo `config/settings.yaml` permite personalizar:
 - **Tiempo de Ejecución**: 30 segundos - 5 minutos
 - **Tasa de Éxito**: >95% en entornos enterprise
 
-### Logs y Auditoría
-
-```bash
-# Logs detallados en tiempo real
-2024-01-15 10:30:15 - INFO - Iniciando limpieza enterprise
-2024-01-15 10:30:16 - SUCCESS - Brave cerrado exitosamente
-2024-01-15 10:30:18 - SUCCESS - UserAssist limpiado: 3 eventos
-2024-01-15 10:30:20 - SUCCESS - Datos de Brave eliminados: 150 MB
-```
-
 ## 🛡️ Seguridad
 
 ### Características de Seguridad
@@ -196,13 +186,13 @@ logging:
 
 ## 🚀 Roadmap
 
-### Versión 3.0 (Q2 2024)
+### Versión 3.0 (Q2 2025)
 - 🔧 **Interfaz Gráfica**: GUI profesional para entornos enterprise
 - 🔧 **Limpieza Programada**: Automatización con Task Scheduler
 - 🔧 **Múltiples Navegadores**: Soporte para Chrome, Firefox, Edge
 - 🔧 **API REST**: Endpoints para integración con sistemas corporativos
 
-### Versión 4.0 (Q4 2024)
+### Versión 4.0 (Q4 2025)
 - 🔧 **Machine Learning**: Detección inteligente de archivos a limpiar
 - 🔧 **Cloud Integration**: Sincronización con servicios en la nube
 - 🔧 **Multi-Platform**: Soporte completo para macOS y Linux
@@ -232,10 +222,10 @@ Las contribuciones son bienvenidas. Por favor:
 ## 📞 Soporte Enterprise
 
 ### Soporte Técnico
-- 📧 **Email**: oliverodevs@hotmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/w0lfs/brave-cleaner/issues)
-- 📖 **Documentación**: [Wiki del Proyecto](https://github.com/w0lfs/brave-cleaner/wiki)
-- 💬 **Discord**: [Servidor de la Comunidad](https://discord.gg/brave-cleaner)
+- 📧 **Email**: olivero_canarios@hotmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/wolfslender/brave-cleaner/issues)
+- 📖 **Documentación**: [Wiki del Proyecto](https://github.com/wolfslender/brave-cleaner/wiki)
+
 
 ### Soporte Corporativo
 - 🏢 **Consultoría**: Implementación en entornos enterprise
@@ -261,5 +251,5 @@ Las contribuciones son bienvenidas. Por favor:
 ---
 
 **Desarrollado con ❤️ por w0lfs**  
-**Email**: oliverodevs@hotmail.com  
-**GitHub**: [@w0lfs](https://github.com/w0lfs)
+**Email**: olivero_canario@hotmail.com  
+**GitHub**: [@w0lfs](https://github.com/wolfslender)
