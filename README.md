@@ -34,7 +34,7 @@
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/w0lfs/brave-cleaner.git
+git clone https://github.com/wolfslender/brave-cleaner
 cd brave-cleaner
 
 # Instalar dependencias
